@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Dataset (do not upload)
+dataset/
+
+# Model artifacts (optional; you can upload models if you want, but not needed)
+# models/
+models/
+*.h5
+dataset/
